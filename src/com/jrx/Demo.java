@@ -11,5 +11,7 @@ public class Demo {
         System.out.println("git测试");
         System.out.println("主分支");
         System.out.println("主分支修改");
+        System.out.println("分分支");
+        System.out.println("分分支修改");
     }
 }
